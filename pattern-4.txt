@@ -1,9 +1,0 @@
-458 	 xml 
-508 	 efficient 
-528 	 object 
-567 	 distributed 
-637 	 processing 
-767 	 system 
-1040 	 data 
-1163 	 database 
-1713 	 query 
