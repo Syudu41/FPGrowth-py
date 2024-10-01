@@ -1,0 +1,12 @@
+414 	 semantic 
+421 	 model 
+490 	 language 
+564 	 document 
+707 	 search 
+757 	 system 
+863 	 based 
+1114 	 retrieval 
+461 	 information retrieval 
+475 	 information retrieval 
+1211 	 information 
+1226 	 web 
